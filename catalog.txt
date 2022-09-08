@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>  Это Каталог </head>
+<h1>под этим заголовком ссылка на главную</h1>
+	<a href="sait.html">главная</a>
+</html>
